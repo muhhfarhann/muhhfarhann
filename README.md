@@ -11,7 +11,7 @@ Hi, I'm Muhammad Farhan, a passionate Software Developer and Software Engineer w
 
 - Languages: Python, JavaScript, TypeScript, Java, Php, Dart
 - Frameworks & Libraries: React, Node.js, Django, Flask, Spring Boot, Laravel, Flutter
-- Tools & Platforms: Docker, Git, CI/CD pipelines
+- Tools & Platforms: Webpack, vite, Git, CI/CD pipelines, Postman
 - Databases: PostgreSQL, MongoDB, MySQL
 - Other: RESTful APIs
 
